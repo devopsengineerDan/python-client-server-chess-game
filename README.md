@@ -12,6 +12,10 @@ You will need to change the server address from within the following two files:
 - client.py
 - server.py
 
+# Run the program:
+- python3 server.py
+- python3 game.py
+
 You will also need to run server.py on some kind of server. After that you can launch two instances of game from anywhere to play online chess.
 
 
